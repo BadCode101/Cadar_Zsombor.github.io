@@ -26,8 +26,8 @@ Harmadeves egyetemi hallgato lennek.
 
 **Hobby**: Sport,Gaming
 
-<img src="/images/egyetemlife/img1.jpeg" width="30%">
+<img src="images/egyetemlife/img1.jpeg" width="30%">
 
-<img src="/images/egyetemlife/img2.jpeg" width="30%">
+<img src="images/egyetemlife/img2.jpeg" width="30%">
 
-<img src="/images/egyetemlife/img3.png" width="30%">
+<img src="images/egyetemlife/img3.png" width="30%">
