@@ -14,7 +14,7 @@ Harmadeves egyetemi hallgato lennek.
 
 ##Elerhetoseg:
 
-Email:[cadar.zsombor.23@stud.umfts.ro]
+Email:[cadar.zsombor.23@stud.umfts.ro](cadar.zsombor.23.@stud.umfst.ro)
 Github:[https://badcode101.github.io/Cadar_Zsombor.github.io/]
 
 ##Erdeklodesi korok:
