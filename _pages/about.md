@@ -8,19 +8,23 @@ redirect_from:
 ---
 ![Avatar](/images/waddles.webp)
 
-Roviden:
+**Roviden**:
 
 A nevem Cadar Zsombor es nem szeretem a GitHubot.
+
 Harmadeves egyetemi hallgato lennek.
 
-Elerhetoseg:
+**Elerhetoseg**:
 
 -Email: [cadar.zsombor.23@stud.umfts.ro](cadar.zsombor.23.@stud.umfst.ro)
+
 -Github: [https://badcode101.github.io/Cadar_Zsombor.github.io/](https://badcode101.github.io/Cadar_Zsombor.github.io/)
 
-Erdeklodesi korok:
-**Webfejleszte**:Front/Backend(Laravel)
-**Hobby**:Sport,Gaming
+**Erdeklodesi korok**:
+
+**Webfejleszte**: Front/Backend(Laravel)
+
+**Hobby**: Sport,Gaming
 
 <img src="/images/egyetemlife/img1.jpeg" width="30%">
 
