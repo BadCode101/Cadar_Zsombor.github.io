@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Profil
+Profil:
+
 <img src="images/egyetemlife/waddles.webp" width="30%">
 
 
@@ -29,7 +30,9 @@ Harmadeves egyetemi hallgato lennek.
 **Hobby**: Sport,Gaming
 
 <img src="images/egyetemlife/img1.jpeg" width="30%">
-
+<figcaption>Ez az egyetemi udvar sok "jokedvu" diakal</figcaption>
 <img src="images/egyetemlife/img2.jpeg" width="30%">
-
+<figcaption>Ezzen a kepen lathato panaszkodo diakok (2025-Color)</figcaption>
 <img src="images/egyetemlife/img3.png" width="30%">
+<figcaption>Itt valami szazalekok lathatoak nem hinnem pontosak</figcaption>
+
