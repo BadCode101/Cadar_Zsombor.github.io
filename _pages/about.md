@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Avatar](images/waddles.webp)
+Profil
+<img src="images/egyetemlife/waddles.webp" width="30%">
+
 
 **Roviden**:
 
