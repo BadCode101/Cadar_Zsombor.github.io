@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Avatar](/images/waddles.webp)
+![Avatar](images/waddles.webp)
 
 **Roviden**:
 
